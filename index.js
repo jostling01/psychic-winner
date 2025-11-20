@@ -55,3 +55,5 @@ function calorieUpdate (fruit, x) {
     cal += x * fruit.nutritions.calories;
     fruitNutrition.textContent = cal;
 }
+
+// update
