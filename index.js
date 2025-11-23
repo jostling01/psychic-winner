@@ -56,4 +56,4 @@ function calorieUpdate (fruit, x) {
     fruitNutrition.textContent = cal;
 }
 
-// update
+// updated first-branch
